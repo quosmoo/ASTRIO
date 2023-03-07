@@ -1,0 +1,6 @@
+requests
+os
+sys
+subprocess
+webbrowser
+time
